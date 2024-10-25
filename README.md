@@ -11,4 +11,4 @@
 #####  ℹ️ Video 6: Carpeta 6-Persistencia-datos
   - ⛔️ Cuidado con el nombre que se le da a la carpeta del video Nº 6, si este nombre contiene espacios dará error cuando se quieras ejecutar el docker run.
   - Comando Dead-Pool: `docker run --name deadpool-nginx -p 8080:80 -d -v $(pwd)/deadpool-site:/usr/share/nginx/html nginx`
-  - Comando Wolverine: `docker run --name woverine-site -p 8083:80 --mount type=volume,source=wolverine-data,target=/usr/share/nginx/html -d nginx`
+  - Comando Wolverine: `docker run --name wolverine-site -p 8083:80 --mount type=volume,source=wolverine-data,target=/usr/share/nginx/html -d nginx`
