@@ -293,3 +293,4 @@ function render() {
   
     requestAnimFrame(render);
 }
+console.log('dentro')
