@@ -2,7 +2,10 @@
 ### Código para seguir la primera parte del vídeo nº4 de la [Serie sobre contenedores 📦🐳 return(GiS)](https://www.youtube.com/watch?v=SpMdQRGGwRE&list=PLO9JpmNAsqM6PxlmKj6kfX-a8WwZJnwD9)
  ✳️ [Todos los créditos y agradecimientos a Gisela Torres 💐](https://www.youtube.com/@returngis) 
 ##### 🔗 Enlace al vídeo: [4. Herramientas para generar Dockerfiles](https://www.youtube.com/watch?v=hZQA51uoHAU)
+##### 🔗 Enlace al vídeo: [6. Persistir datos en Docker](https://www.youtube.com/watch?v=-PVExF6XRik)
 
 #### Instrucciones:
- - Ejecutar en la terminal: `npm install`
- - Seguir las instrucciones del vídeo.
+##  ⚠️ Raiz y carpeta public pertenecen al video 4 
+  - Ejecutar en la terminal: `npm install`
+  - Seguir las instrucciones del vídeo.
+  - ⛔️ Cuidado con el nombre que se le da a la carpeta del video Nº 6, si este nombre contiene espacios dará error cuando se quieras ejecutar el docker run.
