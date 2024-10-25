@@ -5,7 +5,7 @@
 ##### 🔗 Enlace al vídeo: [6. Persistir datos en Docker](https://www.youtube.com/watch?v=-PVExF6XRik)
 
 #### Instrucciones:
-######  ⚠️ Raiz y carpeta public pertenecen al video 4 
+#####  ⚠️ Raiz y carpeta public pertenecen al video 4 
   - Ejecutar en la terminal: `npm install`
   - Seguir las instrucciones del vídeo.
 #####  ℹ️ Video 6: Carpeta 6-Persistencia-datos
