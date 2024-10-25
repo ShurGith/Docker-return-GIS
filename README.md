@@ -10,3 +10,4 @@
   - Seguir las instrucciones del vídeo.
 #####  ℹ️ Video 6: Carpeta 6-Persistencia-datos
   - ⛔️ Cuidado con el nombre que se le da a la carpeta del video Nº 6, si este nombre contiene espacios dará error cuando se quieras ejecutar el docker run.
+  - Comando Docker: `docker run --name deadpool-nginx -p 8080:80 -d -v $(pwd)/deadpool-site:/user/share/nginx/html nginx`
